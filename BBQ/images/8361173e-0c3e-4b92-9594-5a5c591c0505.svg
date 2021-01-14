@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="87.3035585%" gradientTransform="translate(0.500000,0.000000),scale(0.843785,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#007AFF" offset="0%"></stop>
+            <stop stop-color="#007AFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" fill="url(#radialGradient-1)" fill-rule="nonzero" transform="translate(103.870018, 110.811262) rotate(-33.000000) translate(-103.870018, -110.811262) " points="54.419483 11.3213441 136.742517 13.8043588 221.779126 69.0277785 130.035106 210.30118 -14.0390907 116.738303"></polygon>
+        <circle id="Oval" stroke="#007AFF" fill="#FFFFFF" fill-rule="nonzero" cx="60" cy="60" r="60"></circle>
+        <circle id="Oval-Copy" fill="#007AFF" fill-rule="nonzero" cx="60" cy="60" r="53"></circle>
+    </g>
+</svg>
